@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Progmasoft <support@progmasoft.com>
+# SPDX-License-Identifier: MIT
+
+/bazel-*
+/build/
+/.xmake/
+/compile_commands.json
